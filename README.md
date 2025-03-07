@@ -1,6 +1,6 @@
-# Salut, moi c'est Thibault 👋  
+# Bienvenue sur ma page Github 👋  
 
-Bienvenue sur mon profil GitHub ! Je suis **étudiant en classe préparatoire ATS**, passionné par le **développement bas-niveau** et les langages comme le **C**. J'aime travailler sur des projets qui exploitent les performances de la machine, souvent en utilisant **SDL2** pour réaliser des applications graphiques interactives.  
+Je suis **étudiant en classe préparatoire ATS**, passionné par le **développement bas-niveau** et les langages comme le **C**. J'aime travailler sur des projets qui exploitent les performances de la machine, souvent en utilisant **SDL2** pour réaliser des applications graphiques interactives.  
 
 Mon objectif est d'acquérir des compétences solides en algorithmique avancée et de construire des solutions performantes.  
 
